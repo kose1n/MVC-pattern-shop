@@ -1,5 +1,5 @@
 # MVC-pattern-shop# 
-
+![Screenshot_8](https://user-images.githubusercontent.com/55352038/190644561-7254b9cc-a64e-4f8b-b6fd-87cc76430599.png)
 What is this site?
 <br>
 This is a small and test online sneaker store. It is based on the template "View Controller Module". It contains a couple of dozen products for taste and color.<br>
