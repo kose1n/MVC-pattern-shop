@@ -1,6 +1,7 @@
 # MVC-pattern-shop# 
 
 What is this site?
+<br>
 This is a small and test online sneaker store. It is based on the template "View Controller Module". It contains a couple of dozen products for taste and color.
 Site functionality:
 -User registration
