@@ -20,7 +20,7 @@ class CtrllUser
                 $errors[] = 'Некорректное имя, имя не должно быть короче двух символов';
             }
             if (!User::checkEmail($email)) {
-                $errors[] = 'Некорректный email';
+                $errors[] = 'Некорректный email, проверьте правильность email';
             }
             if (User::checkEmailExists($email)) {
                 $errors[] = 'Такой email уже используется';
