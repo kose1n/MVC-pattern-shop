@@ -109,7 +109,7 @@ CREATE TABLE `product_girls_keds` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
--- Дамп данных таблицы `product_girls_keds`
+-- Даамп данных таблицы `product_girls_keds`
 --
 
 INSERT INTO `product_girls_keds` (`id`, `name`, `code`, `price`, `avallabillty`, `brand`, `description`, `is_new`, `status`) VALUES
