@@ -10,7 +10,7 @@ Site functionality:
 -The ability to choose the size of the product
 -Possibility to place an order (without payment)
 
-All this works together with a database that has the name "super_mag(1).sql"
+All this works together with a database that has the name "date_base_cher.sql"
 
 Set of technologies:
 HTML/Css
