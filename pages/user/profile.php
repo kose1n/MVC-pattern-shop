@@ -6,7 +6,7 @@
             <div class="new_content">
                 <div style="color: green; font-size: 18px; display: block; width:400px;">
                     <?php if ($result): ?>
-                        <p>Данные отредактированы!
+                        <p> Данные отредактированы!
                             <a href="/user/profile"> <button class="btn">Вернуться в профиль</button></a></p>
                     <?php else: ?>
                     <div style="color: red; font-size: 18px; display: block; width:400px;">
