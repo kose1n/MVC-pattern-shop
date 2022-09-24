@@ -10,7 +10,6 @@
             <div class="body_product">
             <?php foreach ($products as $product): ?>
 
-
                 <div class="col-md-4">
                     <div style="background-color: rgb(0 0 0 / 0.4); padding: 10px; margin: 5px" class="product_block">
                         <a href="/product/<?php echo $product['id']; ?>">
@@ -68,7 +67,6 @@
 
 
 
-
         <?php else: ?>
             <div style="color: white; text-shadow: 1px 2px black" class="basket_titlle">
                 Ваша корзина товаров пуста
@@ -81,7 +79,6 @@
         </div>
     </div>
 </section>
-
 
 
 <?php  include ROOT . '/pages/layouts/footer.php'; ?>
